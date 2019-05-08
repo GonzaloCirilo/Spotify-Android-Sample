@@ -12,5 +12,5 @@ Sample project integrating [Spotify API](https://developer.spotify.com/documenta
 NOTE: to see your SHA1 fingerprint of debug type `./gradlew signingReport`
 
 ## Requirements
-* Android API 25
-* Spotify latest version installed
+* Android SDK API level 25
+* Spotify Andrdroid App latest version installed.
