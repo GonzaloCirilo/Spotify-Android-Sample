@@ -9,8 +9,8 @@ Sample project integrating [Spotify API](https://developer.spotify.com/documenta
 * Update the code in Main Activity to change the values for CLIENT_ID and REDIRECT_URI
 * Run the application
 
-NOTE: to see your SHA1 fingerprint of debug type `./gradlew` signingReport
+NOTE: to see your SHA1 fingerprint of debug type `./gradlew signingReport`
 
 ## Requirements
-* Android API 25
-* Spotify latest version installed
+* Android SDK API level 25
+* Spotify Andrdroid App latest version installed.
